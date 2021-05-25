@@ -1,4 +1,4 @@
-package com.github.e4basil.progressindicatorbutton.library
+package com.basil.progressindicatorbutton.library
 
 object FactorialCalculator {
 

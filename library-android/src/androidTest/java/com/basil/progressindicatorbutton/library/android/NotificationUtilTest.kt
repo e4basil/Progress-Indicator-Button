@@ -1,8 +1,9 @@
-package com.github.e4basil.progressindicatorbutton.library.android
+package com.basil.progressindicatorbutton.library.android
 
 import android.app.Notification
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
+import com.basil.progressindicatorbutton.library.android.NotificationUtil
 import org.junit.Assert.assertEquals
 import org.junit.Test
 import org.junit.runner.RunWith

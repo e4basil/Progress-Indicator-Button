@@ -1,4 +1,4 @@
-package com.github.e4basil.progressindicatorbutton.app
+package com.basil.progressindicatorbutton.app
 
 import androidx.test.espresso.Espresso.onView
 import androidx.test.espresso.action.ViewActions.click

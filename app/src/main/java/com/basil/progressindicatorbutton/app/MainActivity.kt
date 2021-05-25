@@ -1,11 +1,11 @@
-package com.github.e4basil.progressindicatorbutton.app
+package com.basil.progressindicatorbutton.app
 
 import android.os.Bundle
 import android.view.View
 import androidx.appcompat.app.AppCompatActivity
-import com.github.e4basil.progressindicatorbutton.app.databinding.ActivityMainBinding
-import com.github.e4basil.progressindicatorbutton.library.FactorialCalculator
-import com.github.e4basil.progressindicatorbutton.library.android.NotificationUtil
+import com.basil.progressindicatorbutton.app.databinding.ActivityMainBinding
+import com.basil.progressindicatorbutton.library.FactorialCalculator
+import com.basil.progressindicatorbutton.library.android.NotificationUtil
 
 class MainActivity : AppCompatActivity() {
 

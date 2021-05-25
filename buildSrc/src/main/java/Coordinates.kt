@@ -1,7 +1,7 @@
-const val PUBLISHING_GROUP = "com.github.e4basil.progressindicatorbutton"
+const val PUBLISHING_GROUP = "com.basil.progressindicatorbutton"
 
 object AppCoordinates {
-    const val APP_ID = "com.github.e4basil.progressindicatorbutton.app"
+    const val APP_ID = "com.basil.progressindicatorbutton.app"
 
     const val APP_VERSION_NAME = "1.0.0"
     const val APP_VERSION_CODE = 1

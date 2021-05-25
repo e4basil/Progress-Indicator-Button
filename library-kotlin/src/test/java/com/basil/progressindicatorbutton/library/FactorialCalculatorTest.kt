@@ -1,6 +1,6 @@
-package com.github.e4basil.progressindicatorbutton.library
+package com.basil.progressindicatorbutton.library
 
-import com.github.e4basil.progressindicatorbutton.library.FactorialCalculator.computeFactorial
+import com.basil.progressindicatorbutton.library.FactorialCalculator.computeFactorial
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertThrows
 import org.junit.Test
